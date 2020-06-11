@@ -49,8 +49,7 @@ for(i in 1:length(file.names)) {
   output<-as.matrix(coef(cvfit))
   
   #store output into a csv. We take all variables with nonzero coefficients
-  write.csv(output, file=filesaver)
-  
+  write.csv(output, file=filesaver)  
 }
 
 
