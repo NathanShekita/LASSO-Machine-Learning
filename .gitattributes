@@ -1,2 +1,1 @@
-*.stata linguist-language=R
-*.r linguest-detectable=true
+stata/* linguist-vendored
