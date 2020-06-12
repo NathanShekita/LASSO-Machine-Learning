@@ -1,1 +1,2 @@
 *.stata linguist-detectable=false
+*.r linguest-detectable=true
