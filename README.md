@@ -1,4 +1,4 @@
-# LASSO-Machine-Learning
+# Machine Learning with a LASSO
 An illustrative example of a LASSO applied to healthcare data with hundreds of independent variables. The figure shows conditional correlates of the variables selected from a LASSO that included data from the AHA, Equality of Opportunity Project, SK&A, and Health Leader Interstudy.
 The outcome of interest (dependent variable) was hospital out-of-network billing prevalence. 
 
